@@ -1,0 +1,11 @@
+.navbar-nav>li {
+    padding-left: 75px;
+    padding-right: 75px;
+    margin: 20px;
+}
+
+hr.divider {
+    margin-left: 350px;
+    margin-right: 350px;
+    border: 1.5px solid black;
+}
